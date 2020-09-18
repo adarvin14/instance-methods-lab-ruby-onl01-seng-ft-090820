@@ -1,5 +1,5 @@
 class Dog
 end
 
-dog.bark
+Dog.bark
   puts "Woof!"
